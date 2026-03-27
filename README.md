@@ -65,4 +65,4 @@ Key Learnings
 - Building scientific visualization tools using Python
 - Understanding the impact of physical parameters on device behavior
 
-  ![Image Alt](image_url).
+  ![Image Alt](https://github.com/aaravrasquinha-sys/Interactive-Semiconductor-Heterojunction-Visualizer/blob/0245bb98215be43317fe109e3c9541f436ea3516/Screenshot%202026-03-27%20141859.png).
