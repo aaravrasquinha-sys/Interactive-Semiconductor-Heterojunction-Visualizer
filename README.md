@@ -30,11 +30,12 @@ Simulates heterojunction behavior using:
 Smooth band transitions (cosine interpolation)
 Bandgap offsets across material interfaces
 Captures realistic band bending effects
-🔬 Conceptual Coverage
-Energy band alignment at heterointerfaces
-Abrupt vs. graded doping profiles
-Forward and reverse bias effects
-Depletion region variation
+
+Conceptual Coverage
+- Energy band alignment at heterointerfaces
+- Abrupt vs. graded doping profiles
+- Forward and reverse bias effects
+- Depletion region variation
 
 Language - Python
 
@@ -51,8 +52,6 @@ cd heterojunction-visualizer
 pip install dash plotly numpy
 3. Run the application
 python app.py
-4. Open in browser
-http://127.0.0.1:8050/
 
 Output Visualizations
 - Conduction and valence band profiles across the junction
