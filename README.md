@@ -64,3 +64,5 @@ Key Learnings
 - Translating mathematical models into interactive simulations
 - Building scientific visualization tools using Python
 - Understanding the impact of physical parameters on device behavior
+
+  ![Image Alt](image_url).
